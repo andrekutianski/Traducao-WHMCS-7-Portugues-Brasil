@@ -2024,12 +2024,12 @@ $_LANG['oauth']['badTwoFactorAuthModule'] = "Bad Two-Factor módulo Auth. Entre 
 $_LANG['oauth']['permAccessNameAndEmail'] = "Acesse o seu nome e endereço de email";
 
 $_LANG['errorButTryAgain'] = "Ocorreu um erro. Por favor, tente novamente.";
-$_LANG['emailSent'] = "Email Sent";
-$_LANG['verificationKeyExpired'] = "This email verification key has expired. Please login to request a new one.";
-$_LANG['emailAddressVerified'] = "Thank you for confirming your email address.";
-$_LANG['emailKeyExpired'] = "This email verification key has expired. Please request a new one.";
-$_LANG['verifyEmailAddress'] = "Please check your email and follow the link to verify your email address.";
-$_LANG['resendEmail'] = "Resend Verification Email";
+$_LANG['emailSent'] = "Email Enviado";
+$_LANG['verificationKeyExpired'] = "Esta chave de verificação de e-mail expirou. Faça o login para solicitar um novo.";
+$_LANG['emailAddressVerified'] = "Obrigado por confirmar seu endereço de email.";
+$_LANG['emailKeyExpired'] = "Esta chave de verificação de e-mail expirou. Solicite uma nova.";
+$_LANG['verifyEmailAddress'] = "Verifique seu e-mail e siga o link para confirmar seu endereço de e-mail.";
+$_LANG['resendEmail'] = "Reenviar e-mail de verificação";
 
 // Markdown Editor Help
 $_LANG['markdown']['title'] = "Markdown Guide";
